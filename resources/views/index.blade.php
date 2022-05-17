@@ -87,7 +87,7 @@
                         class="rounded-lg p-6 bg-slate-500 backdrop-filter backdrop-blur-xl bg-clip-padding bg-opacity-50 hover:scale-105 transition ease-in-out duration-50"
                     >
                         <img
-                            src="/images/logonf.png"
+                            src="https://cdn.statically.io/gh/razanfawwaz/tugaslaravel/main/public/images/logonf.png"
                             alt=""
                             class="w-16 h-16"
                         />
@@ -137,7 +137,7 @@
                             class="flex items-center justify-center overflow-hidden pt-5 hover:overflow-none"
                         >
                             <img
-                                src="/images/magangmerdeka.jpg"
+                                src="https://cdn.statically.io/gh/razanfawwaz/tugaslaravel/main/public/images/magangmerdeka.jpg"
                                 alt=""
                                 class="inset-x-0 -mb-6 bottom-0 w-5/6 overflow-hidden object-bottom rounded-lg"
                             />
@@ -169,7 +169,7 @@
                             class="flex items-center justify-center overflow-hidden pt-5 hover:overflow-none"
                         >
                             <img
-                                src="/images/bersinar.jpg"
+                                src="https://cdn.statically.io/gh/razanfawwaz/tugaslaravel/main/public/images/bersinar.jpg"
                                 alt=""
                                 class="inset-x-0 -mb-6 bottom-0 w-5/6 overflow-hidden object-bottom rounded-lg"
                             />
@@ -202,7 +202,7 @@
                             class="flex items-center justify-center overflow-hidden pt-5 hover:overflow-none"
                         >
                             <img
-                                src="/images/bersinarcaption.jpg"
+                                src="https://cdn.statically.io/gh/razanfawwaz/tugaslaravel/main/public/images/bersinarcaption.jpg"
                                 alt=""
                                 class="inset-x-0 -mb-6 bottom-0 w-5/6 overflow-hidden object-bottom rounded-lg"
                             />
@@ -235,7 +235,7 @@
                             class="flex items-center justify-center overflow-hidden pt-5 hover:overflow-none"
                         >
                             <img
-                                src="/images/bersinarkelas.jpg"
+                                src="https://cdn.statically.io/gh/razanfawwaz/tugaslaravel/main/public/images/bersinarkelas.jpg"
                                 alt=""
                                 class="inset-x-0 -mb-6 bottom-0 w-5/6 overflow-hidden object-bottom rounded-lg"
                             />
